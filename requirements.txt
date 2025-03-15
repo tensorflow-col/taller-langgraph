@@ -11,4 +11,5 @@ pprintpp
 python-dotenv
 langchain-google-genai==2.1.0
 tokenizers
-pinecone-client
+pinecone
+jupyterlab
